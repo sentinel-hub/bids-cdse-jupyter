@@ -16,7 +16,7 @@ This notebook introduces you to the Sentinel Hub APIs which allow you streamline
 
 - [Catalog API](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Catalog.html)
 - [Evalscripts](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Evalscript.html)
-- [Processing API]
+- [Processing API](https://documentation.dataspace.copernicus.eu/APIs/SentinelHub/Process.html)
 
 ### 2: Pollution Statistics
 
