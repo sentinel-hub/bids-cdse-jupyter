@@ -10,7 +10,7 @@ The workshop is split up into three notebooks.
 
 ### 1: Introduction to Data Access
 
-This notebook introduces you to the Sentinel Hub APIs which allow you streamlined data access to satellite data.
+This notebook introduces you to the Sentinel Hub APIs which allow you streamlined access to satellite data.
 
 #### Covered Concepts:
 
