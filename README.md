@@ -1,6 +1,6 @@
-# BiDS Workshop: Jupyter Notebooks on Copernicus Dataspace Ecosystem
+# Workshop: Intro to Jupyter Notebooks on Copernicus Dataspace Ecosystem
 
-Workshop content for using Jupyter Notebooks on the Copernicus Data Space Ecosystem. Workshop held at the Big Data from Space 2023 conference.
+Workshop content for using Jupyter Notebooks on the Copernicus Data Space Ecosystem.
 
 This workshop shows streamlined satellite data access using Copernicus Dataspace Ecosystem APIs. It also shows how to get this data into popular python data analysis tools like [Pandas](https://pandas.pydata.org/) and [xarray](https://xarray.dev/).
 
